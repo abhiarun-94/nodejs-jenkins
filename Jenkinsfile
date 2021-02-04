@@ -10,7 +10,7 @@ node {
     stage('Build image') {
         /* This builds the actual image */
 
-        app = docker.build("abhiarun94/nodeapp")
+        app = docker.build("abhiarun94/nodeappnew")
     }
 
     stage('Test image') {
