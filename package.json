@@ -1,0 +1,14 @@
+{
+  "name": "demo_image",
+  "version": "1.0.0",
+  "description": "nodejs image demo",
+  "author": "coder legion",
+  "license": "MIT",
+  "main": "app.js",
+  "scripts": { 
+    "start": "node app.js"
+ },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
